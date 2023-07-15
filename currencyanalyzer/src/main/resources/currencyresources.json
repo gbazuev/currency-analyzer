@@ -1,0 +1,545 @@
+{
+"1": [
+{
+"name_ru": "Австралийский доллар",
+"name_eng": "Australian Dollar",
+"id": "R01010"
+}
+],
+
+"2": [
+{
+"name_ru": "Австрийский шиллинг",
+"name_eng": "Austrian Shilling",
+"id": "R01015"
+}
+],
+
+"3": [
+{
+"name_ru": "Азербайджанский манат",
+"name_eng": "Azerbaijan Manat",
+"id": "R01020A"
+}
+],
+
+"4": [
+{
+"name_ru": "Фунт стерлингов Соединенного королевства",
+"name_eng": "British Pound Sterling",
+"id": "R01035"
+}
+],
+
+"5": [
+{
+"name_ru": "Ангольская новая кванза",
+"name_eng": "Angolan new Kwanza",
+"id": "R01040F"
+}
+],
+
+"6": [
+{
+"name_ru": "Армянский драм",
+"name_eng": "Armenia Dram",
+"id": "R01060"
+}
+],
+
+"7": [
+{
+"name_ru": "Белорусский рубль",
+"name_eng": "Belarussian Ruble",
+"id": "R01090B"
+}
+],
+
+"8": [
+{
+"name_ru": "Бельгийский франк",
+"name_eng": "Belgium Franc",
+"id": "R01095"
+}
+],
+
+"9": [
+{
+"name_ru": "Болгарский лев",
+"name_eng": "Bulgarian lev",
+"id": "R01100"
+}
+],
+
+"10": [
+{
+"name_ru": "Бразильский реал",
+"name_eng": "Brazil Real",
+"id": "R01115"
+}
+],
+
+"11": [
+{
+"name_ru": "Венгерский форинт",
+"name_eng": "Hungarian Forint",
+"id": "R01135"
+}
+],
+
+"12": [
+{
+"name_ru": "Вьетнамский донг",
+"name_eng": "Vietnam Dong",
+"id": "R01150"
+}
+],
+
+"13": [
+{
+"name_ru": "Гонконгский доллар",
+"name_eng": "Hong Kong Dollar",
+"id": "R01200"
+}
+],
+
+"14": [
+{
+"name_ru": "Греческая драхма",
+"name_eng": "Greek Drachma",
+"id": "R01205"
+}
+],
+
+"15": [
+{
+"name_ru": "Грузинский лари",
+"name_eng": "Georgia Lari",
+"id": "R01210"
+}
+],
+
+"16": [
+{
+"name_ru": "Датская крона",
+"name_eng": "Danish Krone",
+"id": "R01215"
+}
+],
+
+"17": [
+{
+"name_ru": "Дирхам ОАЭ",
+"name_eng": "UAE Dirham",
+"id": "R01230"
+}
+],
+
+"18": [
+{
+"name_ru": "Доллар США",
+"name_eng": "US Dollar",
+"id": "R01235"
+}
+],
+
+"19": [
+{
+"name_ru": "Евро",
+"name_eng": "Euro",
+"id": "R01239"
+}
+],
+
+"20": [
+{
+"name_ru": "Египетский фунт",
+"name_eng": "Egyptian Pound",
+"id": "R01240"
+}
+],
+
+"21": [
+{
+"name_ru": "Индийская рупия",
+"name_eng": "Indian Rupee",
+"id": "R01270"
+}
+],
+
+"22": [
+{
+"name_ru": "Индонезийская рупия",
+"name_eng": "Indonesian Rupiah",
+"id": "R01280"
+}
+],
+
+"23": [
+{
+"name_ru": "Ирландский фунт",
+"name_eng": "Irish Pound",
+"id": "R01305"
+}
+],
+
+"24": [
+{
+"name_ru": "Исландская крона",
+"name_eng": "Iceland Krona",
+"id": "R01310"
+}
+],
+
+"25": [
+{
+"name_ru": "Испанская песета",
+"name_eng": "Spanish Peseta",
+"id": "R01315"
+}
+],
+
+"26": [
+{
+"name_ru": "Итальянская лира",
+"name_eng": "Italian Lira",
+"id": "R01325"
+}
+],
+
+"27": [
+{
+"name_ru": "Казахстанский тенге",
+"name_eng": "Kazakhstan Tenge",
+"id": "R01335"
+}
+],
+
+"28": [
+{
+"name_ru": "Канадский доллар",
+"name_eng": "Canadian Dollar",
+"id": "R01350"
+}
+],
+
+"29": [
+{
+"name_ru": "Катарский риал",
+"name_eng": "Qatari Riyal",
+"id": "R01355"
+}
+],
+
+"30": [
+{
+"name_ru": "Киргизский сом",
+"name_eng": "Kyrgyzstan Som",
+"id": "R01370"
+}
+],
+
+"31": [
+{
+"name_ru": "Китайский юань",
+"name_eng": "China Yuan",
+"id": "R01375"
+}
+],
+
+"32": [
+{
+"name_ru": "Кувейтский динар",
+"name_eng": "Kuwaiti Dinar",
+"id": "R01390"
+}
+],
+
+"33": [
+{
+"name_ru": "Латвийский лат",
+"name_eng": "Latvian Lat",
+"id": "R01405"
+}
+],
+
+"34": [
+{
+"name_ru": "Ливанский фунт",
+"name_eng": "Lebanese Pound",
+"id": "R01420"
+}
+],
+
+"35": [
+{
+"name_ru": "Литовский лит",
+"name_eng": "Lithuanian Lita",
+"id": "R01435"
+}
+],
+
+"36": [
+{
+"name_ru": "Литовский талон",
+"name_eng": "Lithuanian talon",
+"id": "R01436"
+}
+],
+
+"37": [
+{
+"name_ru": "Молдавский лей",
+"name_eng": "Moldova Lei",
+"id": "R01500"
+}
+],
+
+"38": [
+{
+"name_ru": "Немецкая марка",
+"name_eng": "Deutsche Mark",
+"id": "R01510"
+}
+],
+
+"39": [
+{
+"name_ru": "Deutsche Mark",
+"name_eng": "Deutsche Mark",
+"id": "R01510A"
+}
+],
+
+"40": [
+{
+"name_ru": "Нидерландский гульден",
+"name_eng": "Netherlands Gulden",
+"id": "R01523"
+}
+],
+
+"41": [
+{
+"name_ru": "Новозеландский доллар",
+"name_eng": "New Zealand Dollar",
+"id": "R01530"
+}
+],
+
+"42": [
+{
+"name_ru": "Норвежская крона",
+"name_eng": "Norwegian Krone",
+"id": "R01535"
+}
+],
+
+"43": [
+{
+"name_ru": "Польский злотый",
+"name_eng": "Polish Zloty",
+"id": "R01565"
+}
+],
+
+"44": [
+{
+"name_ru": "Португальский эскудо",
+"name_eng": "Portuguese Escudo",
+"id": "R01570"
+}
+],
+
+"45": [
+{
+"name_ru": "Румынский лей",
+"name_eng": "Romanian Leu",
+"id": "R01585"
+}
+],
+
+"46": [
+{
+"name_ru": "Румынский лей",
+"name_eng": "Romanian Leu",
+"id": "R01585F"
+}
+],
+
+"47": [
+{
+"name_ru": "СДР",
+"name_eng": "SDR",
+"id": "R01589"
+}
+],
+
+"48": [
+{
+"name_ru": "Сингапурский доллар",
+"name_eng": "Singapore Dollar",
+"id": "R01625"
+}
+],
+
+"49": [
+{
+"name_ru": "Суринамский доллар",
+"name_eng": "Surinam Dollar",
+"id": "R01665A"
+}
+],
+
+"50": [
+{
+"name_ru": "Таджикский сомони",
+"name_eng": "Tajikistan Ruble",
+"id": "R01670"
+}
+],
+
+"51": [
+{
+"name_ru": "Таиландский бат",
+"name_eng": "Thai Baht",
+"id": "R01675"
+}
+],
+
+"52": [
+{
+"name_ru": "Турецкая лира",
+"name_eng": "Turkish Lira",
+"id": "R01700J"
+}
+],
+
+"53": [
+{
+"name_ru": "Туркменский манат",
+"name_eng": "Turkmenistan Manat",
+"id": "R01710"
+}
+],
+
+"54": [
+{
+"name_ru": "Новый туркменский манат",
+"name_eng": "New Turkmenistan Manat",
+"id": "R01710A"
+}
+],
+
+"55": [
+{
+"name_ru": "Узбекский сум",
+"name_eng": "Uzbekistan Sum",
+"id": "R01717"
+}
+],
+
+"56": [
+{
+"name_ru": "Украинская гривна",
+"name_eng": "Ukrainian Hryvnia",
+"id": "R01720"
+}
+],
+
+"57": [
+{
+"name_ru": "Финляндская марка",
+"name_eng": "Finnish Marka",
+"id": "R01740"
+}
+],
+
+"58": [
+{
+"name_ru": "Французский франк",
+"name_eng": "French Franc",
+"id": "R01750"
+}
+],
+
+"59": [
+{
+"name_ru": "Чешская крона",
+"name_eng": "Czech Koruna",
+"id": "R01760"
+}
+],
+
+"60": [
+{
+"name_ru": "Шведская крона",
+"name_eng": "Swedish Krona",
+"id": "R01770"
+}
+],
+
+"61": [
+{
+"name_ru": "Швейцарский франк",
+"name_eng": "Swiss Franc",
+"id": "R01775"
+}
+],
+
+"62": [
+{
+"name_ru": "ЭКЮ",
+"name_eng": "ECU",
+"id": "R01790"
+}
+],
+
+"63": [
+{
+"name_ru": "Эстонская крона",
+"name_eng": "Estonian Kroon",
+"id": "R01795"
+}
+],
+
+"64": [
+{
+"name_ru": "Югославский новый динар",
+"name_eng": "Yugoslavian Dinar",
+"id": "R01805"
+}
+],
+
+"65": [
+{
+"name_ru": "Сербский динар",
+"name_eng": "Serbian Dinar",
+"id": "R01805F"
+}
+],
+
+"66": [
+{
+"name_ru": "Южноафриканский рэнд",
+"name_eng": "S.African Rand",
+"id": "R01810"
+}
+],
+
+"67": [
+{
+"name_ru": "Вон Республики Корея",
+"name_eng": "South Korean Won",
+"id": "R01815"
+}
+],
+
+"68": [
+{
+"name_ru": "Японская иена",
+"name_eng": "Japanese Yen",
+"id": "R01820"
+}
+]
+}
