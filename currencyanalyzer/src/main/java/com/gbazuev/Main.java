@@ -4,7 +4,6 @@ import com.gbazuev.response.CommandExecutor;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        CommandExecutor executor = new CommandExecutor();
-        executor.execute();
+        CommandExecutor.execute();
     }
 }
