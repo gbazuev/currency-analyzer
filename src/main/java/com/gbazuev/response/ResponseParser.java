@@ -28,7 +28,6 @@ public class ResponseParser {
         return response.substring(dateStart + 14, dateEnd - 6);
     }
 
-    //Данный метод нужен для того, чтобы правильно парсился ответ с временным периодом (дата1 - дата2)
     public void clearResponseRecord() {
         StringBuilder builder = new StringBuilder(response);
         response = builder.delete(builder.indexOf("<Record"), builder.indexOf("</Record>") + 9).toString();

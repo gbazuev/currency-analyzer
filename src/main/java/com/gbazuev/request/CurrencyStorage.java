@@ -10,9 +10,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class CurrencyStorage {
-    private final HashMap<String, String> STORAGE = new HashMap<>();
+    private final HashMap<String, String> storage = new HashMap<>();
     @Getter
-    private final ArrayList<String> NAMES = new ArrayList<>();
+    private final ArrayList<String> names = new ArrayList<>();
 
     public CurrencyStorage() {
         try {
@@ -25,8 +25,8 @@ public class CurrencyStorage {
                 String rusName = current.substring(current.indexOf("name_ru") + 11, current.indexOf(",") - 1);
                 String id = current.substring(current.indexOf("id") + 6, current.lastIndexOf("\""));
 
-                NAMES.add(rusName);
-                STORAGE.put(rusName.toUpperCase(), id);
+                names.add(rusName);
+                storage.put(rusName.toUpperCase(), id);
 
                 file.delete(file.indexOf(String.valueOf(i)) - 1, file.indexOf("]") + 2);
             }
@@ -37,6 +37,6 @@ public class CurrencyStorage {
     }
 
     public String getCurrencyId(String name) {
-        return STORAGE.get(name.toUpperCase());
+        return storage.get(name.toUpperCase());
     }
 }

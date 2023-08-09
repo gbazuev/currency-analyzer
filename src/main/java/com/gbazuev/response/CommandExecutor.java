@@ -57,7 +57,7 @@ public class CommandExecutor {
 
         //If message contains only --get --today
         if (message.length == 1) {
-            for (String name : storage.getNAMES()) {
+            for (String name : storage.getNames()) {
                 String id = storage.getCurrencyId(name);
                 String value = parser.getValue(id);
                 if (value.equals("NOT STATED")) {
@@ -98,7 +98,7 @@ public class CommandExecutor {
 
         //If request contains only a date
         if (arguments.length == 1) {
-            for (String name : storage.getNAMES()) {
+            for (String name : storage.getNames()) {
                 String currencyId = storage.getCurrencyId(name);
                 String value = parser.getValue(currencyId);
                 if (value.equals("NOT STATED")) {
